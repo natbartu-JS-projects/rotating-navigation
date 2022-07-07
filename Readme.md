@@ -5,7 +5,7 @@ This application is about a rotating navigation style, there is a lot of css, HT
 * Note there is not functionality on the navigation links, I just focus on rotation on navigation.
 
 ## Deployed link
-[Rotating Navigation](link)
+[Rotating Navigation](https://bartu-rotating-navigation.netlify.app)
 
 ## Application Preview 
 

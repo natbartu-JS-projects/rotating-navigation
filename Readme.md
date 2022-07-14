@@ -12,3 +12,5 @@ This application is about a rotating navigation style, there is a lot of css, HT
 ![preview](assets/shot-1.png)
 
 ![rotated preview](assets/shot-2.png)
+
+![video preview](assets/rotating-navigation.gif)
